@@ -1,5 +1,5 @@
 ## Diciembre 16, 2025 - Day 1
-**Horas código:** 1h
+**Horas Trabajado:** 1h
 
 **Project:** notes-api setup
 
@@ -19,7 +19,7 @@ Subí a github con mi pana el chatgpt
 
 ## Diciembre 17 and 18, 2025 - Day 2 and 3
 
-**Tiempo trabajado:**
+**Tiempo Trabajado:**
 Mé tomo 10 horas en finalizar estas tareas, waos 
 y eso que tomé las horas del 18 de Diciembre. 
 
@@ -34,6 +34,7 @@ Escribir un script para insertar 3 filas a la tabla "notes"
 Escribir un script para leer todas las filas de la tabla "notes"
 Escribir un script para actualizar cierta fila especifica
 Escribir un script para eliminar cierta fila especifica
+
 **Learned:**
 - Instale PostgreSQL, luego me dí cuenta que ya tenía instalado xd. Dado que utilizaba pgadmin4 e instale PostgreSQL
 - Mediante la terminal PowerShell logré acceder a mi base de datos ya creada, adicionalmente creé otra base para práctica con Node.js
