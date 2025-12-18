@@ -14,6 +14,7 @@ Subí a github con mi pana el chatgpt
 - Crear base de datos notes_db
 - Probar conexión desde node.js
 - Comenzar endpoint GET api/notes
+## Diciembre 17 and 18, 2025 - Day 2 and 3
 **Project:** Conexión funcional entre Node.js y PostgreSQL, mas primeras queries exitosas
 **Completed:**
 Establecer un archivo .env con la URL de PostgreSQL
