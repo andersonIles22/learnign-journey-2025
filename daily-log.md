@@ -1,6 +1,8 @@
 ## Diciembre 16, 2025 - Day 1
-** Horas código:** 1h
+**Horas código:** 1h
+
 **Project:** notes-api setup
+
 **Completed:**
 Creé un miniproyecto node.js desde cero
 Instale los paquetes necesarios como pg y dotenv
@@ -14,8 +16,15 @@ Subí a github con mi pana el chatgpt
 - Crear base de datos notes_db
 - Probar conexión desde node.js
 - Comenzar endpoint GET api/notes
+
 ## Diciembre 17 and 18, 2025 - Day 2 and 3
+
+**Tiempo trabajado:**
+Mé tomo 10 horas en finalizar estas tareas, waos 
+y eso que tomé las horas del 18 de Diciembre. 
+
 **Project:** Conexión funcional entre Node.js y PostgreSQL, mas primeras queries exitosas
+
 **Completed:**
 Establecer un archivo .env con la URL de PostgreSQL
 Establecer que el archivo .env no se suba al gitHub
@@ -34,14 +43,13 @@ Escribir un script para eliminar cierta fila especifica
 
 - En cada script creado se utilizó asycn/await. Se utilizó "await promise.all" para las insercciones y "finally" para finalizar la conexión entre Node.js y PostgreSQL con "await pool.end()". Se utiliza await en estas ejecuciones dado que se esta utilizando async/await.
 - Comprender como gestionar el "resultado" devuelto por "pool.query" Para mostrar resultado en la consola y como funciona el RETURNING *
-**Tiempo trabajado:**
-Mé tomo 10 horas en finalizar estas tareas, waos 
-y eso que tomé las horas del 18 de Diciembre. 
+
 **Temas que tomó tiempo entender:**
 - No conocía nada el modulo "pg" y peor de su constructor "Pool" 
 - No le comprendía bien sobre que hacía "pool.query"
 - No recordaba bien como funcioná async/await, promise.all(), finally() 
 - Tuve que comprender algo por lo menos sobre lo que devuelve el "pool.query" para poder gestionar el objeto con metadatos.
+
 **Mañama Dec 19:**
 -Instalar PostgreSQL localmente
 - Crear base de datos notes_db
