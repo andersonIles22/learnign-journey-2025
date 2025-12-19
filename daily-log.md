@@ -18,6 +18,7 @@ Subí a github con mi pana el chatgpt
 - Comenzar endpoint GET api/notes
 
 ## Diciembre 17 and 18, 2025 - Day 2 and 3
+**Día:2**
 
 **Tiempo Trabajado:**
 Mé tomo 10 horas en finalizar estas tareas, waos 
@@ -50,6 +51,28 @@ Escribir un script para eliminar cierta fila especifica
 - No le comprendía bien sobre que hacía "pool.query"
 - No recordaba bien como funcioná async/await, promise.all(), finally() 
 - Tuve que comprender algo por lo menos sobre lo que devuelve el "pool.query" para poder gestionar el objeto con metadatos.
+
+**Día 3**
+
+**Tiempo Trabajado:**
+Mé tomo 6 horas en finalizar estas tareas, waos 
+
+**Project:** Routing Básico con Módulo HTTP
+
+**Completed:**
+Establecer un servidor que responde a diferentes URLs y Métodos como el GET y POST.
+Se Logro obtener registros desde base de datos, estableciendo conexión usando el modulo "database.js" exportando lo necesario, que mediante la ejecución de "server.js" realizar consultas a la bd y usarlo como response a las request GET cuando se utiliza la ruta http://localhost:3000/api/notes/.
+Se estableció manejo de errores que surgen cuando hay problemas de comunicación con la bd, al establecer una consulta erronea, al tener error con las credenciales del servidor y no poder establecer una conexión.
+
+**Learned:**
+Como realizar routing basico, sobre que establecer para cuando se originan diferentes request al servidor.
+Utilizar el Parseo Moderno
+Evitar que haya errores cuando las rutas establecidas contengan un / al final de las rutas, siendo las mismas pero obteniendo diferente status code.
+Se debe ejecutar scripts que hacen el uso de .env ahí mismo donde se encuentra, y no en directorios donde no puede buscarla y obtener error de que no existía información de dotenv (.env). Al ejecutar el script en otras rutas.
+
+**Temas que tomó tiempo entender:**
+El manejo de async/await al crear un servidor
+Como responder ante request con diferente metodo y diferentes rutas.
 
 **Mañama Dec 19:**
 -Instalar PostgreSQL localmente
