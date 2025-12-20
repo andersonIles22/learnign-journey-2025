@@ -88,6 +88,13 @@ Como las tareas del día miércoles no la termine ese día, tuve que terminarla 
 Nota: No procrastine más de 10 min, debido a que desencadena muchas actitudes y acciones que a pesar de que parezca insignificante, a largo plazo es terrible.
 
 Respetar las horas que son para tarea, para cada actividad asignada, no las pospongan con la mentalidad de que más luego se completa. No funcioná bien y terminan frustrados alv.
+**Cosas a mejorar:**
+
     - Si quieren descanso mental, salir a caminar, estiramientos cortos, meditación, o no hacer nada (estar sentado). Y no usar en descanso falso como usar el movil, o redes sociales o comer algo que contenga altas cantidades de azucar o procesados. 
     - Si por alguna razón no puede realizar la actividad en los horarios correspondientes. Sean sinceros con sigo mismo, no se engañe de que se puede recuparar más luego o usar tiempos donde deberías hacer otras actividades. Para luego aplazar tiempos y actividades, que al final del día no se van a cumplir o se cumple pero a costo de estar hasta tarde realizandolos. Cuando al hacer buena gestión de tiempos al inicio se puede evitar esta frustración.
-    
+
+**Dec 20 (Sábado):**
+-Instalar PostgreSQL localmente
+- Crear base de datos notes_db
+- Probar conexión desde node.js
+- Comenzar endpoint GET api/notes
