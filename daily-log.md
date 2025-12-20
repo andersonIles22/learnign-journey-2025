@@ -74,8 +74,20 @@ Se debe ejecutar scripts que hacen el uso de .env ahí mismo donde se encuentra,
 El manejo de async/await al crear un servidor
 Como responder ante request con diferente metodo y diferentes rutas.
 
-**Mañama Dec 19:**
--Instalar PostgreSQL localmente
-- Crear base de datos notes_db
-- Probar conexión desde node.js
-- Comenzar endpoint GET api/notes
+## Diciembre 19, 2025 - Día de colapso
+
+**Horas de trabajo:**
+0h
+
+**Detalles:**
+
+Pues la verdad no quise tocar codigo por pereza, además procrastiné mucho en youtube.
+
+Como las tareas del día miércoles no la termine ese día, tuve que terminarla el jueves, Y las tareas asignadas para jueves las termine  a las 12:30pm :v
+
+Nota: No procrastine más de 10 min, debido a que desencadena muchas actitudes y acciones que a pesar de que parezca insignificante, a largo plazo es terrible.
+
+Respetar las horas que son para tarea, para cada actividad asignada, no las pospongan con la mentalidad de que más luego se completa. No funcioná bien y terminan frustrados alv.
+    - Si quieren descanso mental, salir a caminar, estiramientos cortos, meditación, o no hacer nada (estar sentado). Y no usar en descanso falso como usar el movil, o redes sociales o comer algo que contenga altas cantidades de azucar o procesados. 
+    - Si por alguna razón no puede realizar la actividad en los horarios correspondientes. Sean sinceros con sigo mismo, no se engañe de que se puede recuparar más luego o usar tiempos donde deberías hacer otras actividades. Para luego aplazar tiempos y actividades, que al final del día no se van a cumplir o se cumple pero a costo de estar hasta tarde realizandolos. Cuando al hacer buena gestión de tiempos al inicio se puede evitar esta frustración.
+    
