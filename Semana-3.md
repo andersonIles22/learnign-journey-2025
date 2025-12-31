@@ -37,3 +37,4 @@ Hoy 2 xd, me olvide hacer commits cada tarea realizada.
 **Bloqueos**
 Ninguno
 **Mañama Dec 31:**
+
