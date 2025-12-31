@@ -6,3 +6,4 @@
 - No compensar días malos con días intensos
 - No estar bloqueado en un tema por mas de 30-45min
 
+## NO pude cumplir debido a que me gano la procrastinación y no tenía ganas de hacer nada
