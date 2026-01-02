@@ -70,6 +70,13 @@ CREATE TABLE notes (
 - Verificación de error 404 (Not found)
 ![alt text](./ScreenShots/CRUD_basics/image-7.png)
 
+**Refactorización del proyecto**
+-  El archivo server.js establece que responder cuando se solicita solo la ruta con '/' y se limita a solo mantenerse en que se usará la ruta /api/notes, otras rutas se responde con error.
+-  notesRoutes.js se encarga de la gestión del methodo y cuantas partes tiene la URL que condiciona a que función del controlador llamar.
+-  notesController.js se establece funciones que realizan GET,POST, PUT y DELETE con logica interna.
+-response.js se encarga del manejo de las respuestas del servidor erro/success.
+
+Cada archivo esta dentro de un directorio especifico, que permite organizar mejor la estructura del proyecto.
 
 #### **MES 2: AUTENTICACIÓN + EXPRESS**
 **Meta:** Sistema de usuarios con login/register deployado

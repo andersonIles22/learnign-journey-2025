@@ -37,3 +37,18 @@ Hoy 2 xd, me olvide hacer commits cada tarea realizada.
 **Bloqueos**
 Ninguno
 
+## Enero 1, 2026 - Day 4
+**Horas Trabajado:** 7 horas 30 min
+
+**Project:** Refactorizar todo el proyecto en modulos
+
+**Completed:**
+Pude implementar el method DELETE para que el servidor sepa responder a ciertas validaciones.
+Completar el CRUD sobre el proyecto con screemshots de las peticiones cumplidas.
+Tuve indicios sobre la refactorizacion en modulos
+Todo el proyecto refactorizado
+**Commits**
+Hoy 4, si hacía commits cada punto de refactorización me perdía de donde estaba.
+**Bloqueos**
+Dificultad en como "conectar" los modulos y que no mueran en el intento.
+La parte de asincronia me confundio, todavia no domino donde aplicar dado que parecía que  planteaba asincronia dentro de asincronia
