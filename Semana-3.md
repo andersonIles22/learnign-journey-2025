@@ -36,5 +36,4 @@ Validar ciertos campos del cuerpo JSON no esten vacíos o sea mayor a n numero d
 Hoy 2 xd, me olvide hacer commits cada tarea realizada.
 **Bloqueos**
 Ninguno
-**Mañama Dec 31:**
 
