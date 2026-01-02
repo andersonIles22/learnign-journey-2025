@@ -49,26 +49,26 @@ CREATE TABLE notes (
 ---
 **ScreenShots**
 -  GET a /api/notes/
-![alt text](image.png)
+![alt text](./ScreenShots/CRUD_basics/image.png)
 
 -  POST en /api/notes/ para adicionar notas
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](./ScreenShots/CRUD_basics/image-1.png)
+![alt text](./ScreenShots/CRUD_basics/image-2.png)
 
 -  Verificación de Notas creadas con GET en /api/notes/
-![alt text](image-3.png)
+![alt text](./ScreenShots/CRUD_basics/image-3.png)
 
 -  GET a /api/notes/:id 
-![alt text](image-4.png)
+![alt text](./ScreenShots/CRUD_basics/image-4.png)
 
 -  PUT  a /api/notes/:id
-![alt text](image-5.png)
+![alt text](./ScreenShots/CRUD_basics/image-5.png)
 
 -  DELETE a /api/notes/:id
-![alt text](image-6.png)
+![alt text](./ScreenShots/CRUD_basics/image-6.png)
 
 - Verificación de error 404 (Not found)
-![alt text](image-7.png)
+![alt text](./ScreenShots/CRUD_basics/image-7.png)
 
 
 #### **MES 2: AUTENTICACIÓN + EXPRESS**
