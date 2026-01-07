@@ -52,3 +52,6 @@ Hoy 4, si hacía commits cada punto de refactorización me perdía de donde esta
 **Bloqueos**
 Dificultad en como "conectar" los modulos y que no mueran en el intento.
 La parte de asincronia me confundio, todavia no domino donde aplicar dado que parecía que  planteaba asincronia dentro de asincronia
+
+
+## Horas completadas:25 horas/35 horas
