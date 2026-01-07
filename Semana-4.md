@@ -18,3 +18,16 @@ Manejo de errores que son diferentes en http nativo de node y Express.
 
 - Completar la migración de GET /api/notes y /api/notes/:id o POST /api/notes.
 - Realizar solicitudes para comprobar el funcionamiento de la migración usadno Bruno.
+
+## Enero 7, 2025 - Day 3
+**Horas Trabajado:** Hasta el momento 2 horas y 20min
+
+**Project:** 
+Completación de migración del CRUD basico a Express
+Comprobación y Pruebas de que todo funciona como antes
+Eliminación de archivos innecesarios despues de la migración a Express.
+
+**Completed:**
+Completado hasta el momento:
+- Todo revisado y completado la migración a Express solicitado
+- Se utilizo la dependencia de desarrollador nodemon para gestionar el servidor. 
