@@ -80,10 +80,9 @@ Completación de refactorización
 
 ### Desafíos Superados
 
-- No caer en rabbit holes de documentación
-- Días ligeros vs intensos funcionando
+- NInguno, sigue en las mismas
 
 ### Próxima Semana
 
-- Proyecto 3: Blog API o mejorar Auth con roles
+- Integrar endpoints para obtener nuevo access-token y cambiar contraseña de usuarios
 
