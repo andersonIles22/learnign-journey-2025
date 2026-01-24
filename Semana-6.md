@@ -53,3 +53,18 @@ Sin realizar ninguna actividad
 - Documentación de auth api
 - blog api setup
 - crud posts basico
+
+## Enero 23, 2025 - Day 5
+**Horas Trabajado:** 2 Horas
+**Project:** 
+- Implementar la validación por roles
+- El endpoint /allDb será valido solo para usarios admin
+**Completed:**
+- Añadir campo extra en los usuarios donde se establece el rol (user|admin)
+- Implementar un middleware que valide el rol del usuario.
+- Configurar que el endpoint /allDb sea autorizado solo para usuarios con el rol admin
+
+**Learned:**
+- Los middlewares pueden ser funciones que retorna una función para establecer parametros para las rutas.
+**Semana siguiente:**
+- Implementación de roles en auth Api
