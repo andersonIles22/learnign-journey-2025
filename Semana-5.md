@@ -86,3 +86,4 @@ Completación de refactorización
 
 - Integrar endpoints para obtener nuevo access-token y cambiar contraseña de usuarios
 
+## Horas completas de estudio:  16 horas

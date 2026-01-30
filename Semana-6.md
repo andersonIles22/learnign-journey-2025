@@ -1,4 +1,4 @@
-# Semana 5
+# Semana 6
 ## Meta de Hora: Aproximadamente 32 horas
 ## Compromiso
 - Cumplir con los tiempos de estudio para no estudiar hasta tarde con tal de cumplir las horas.
@@ -68,3 +68,5 @@ Sin realizar ninguna actividad
 - Los middlewares pueden ser funciones que retorna una función para establecer parametros para las rutas.
 **Semana siguiente:**
 - Implementación de roles en auth Api
+
+## Horas completas de estudio:  23 horas
