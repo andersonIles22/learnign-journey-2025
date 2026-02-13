@@ -62,3 +62,15 @@ Nada que mencionar, me dormí hasta tarde, y toda la tarde no hice nada. Pasé l
 - Solo el autor puede editar y borrar sus posts y comentarios.
 - Testing exhaustivo para que todos los endpoints funcionen.
 - Actualizar README.
+
+## Enero 28, 2025 - Day 5
+**Horas Trabajado:**  0 Horas
+**Justificación:**
+Nada que mencionar, me dormí hasta tarde, y toda la tarde no hice nada. Pasé la tarde procrastinando. A las 6pm empecé a emsamblar un amplifcador hasta las 11 pm
+
+**Lunes  Febrero 2:**
+- Solo el autor puede editar y borrar sus posts y comentarios.
+- Testing exhaustivo para que todos los endpoints funcionen.
+- Actualizar README.
+
+## Horas completas de estudio:  16 horas
